@@ -1,4 +1,4 @@
-c# REGISTRATION_FORM
+# REGISTRATION_FORM
 
 Tutorial that demonstrates the  combination of  HTML, PHP, and  MySQL  for developing a student  registration form.  
 
@@ -11,7 +11,7 @@ Tutorial that demonstrates the  combination of  HTML, PHP, and  MySQL  for devel
 3. Within your local server (XAMPP) or live server from MySQL Admin, locate the folder 'database' from your working  environment within htdocs. 
 Import the  sql file ("studentDB.sql") into the  "dbstudent" database.
 
-4. Hence  visit the web-browser, then type  localhost/WORKING_DIRECTORY  or localhost:8080/WORKING_DIRECTORY. Please  note  thatthe working  environment  here 
+4. Hence  visit the web-browser, then type  localhost/WORKING_DIRECTORY  or localhost:8080/WORKING_DIRECTORY. Please  note that the working  environment  here 
 is WORKING_DIRECTORY =  "REGISTRATION_FORM"
 
 5. Fill in the  requested  information on the  registration form page and then click register. A  page  will appear showing  "Student contact has been entered into the database". 
